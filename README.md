@@ -20,6 +20,6 @@ Golden Rules of Scientific Writing | My Personal list of experiences
 -	First Draft - Build a good story frame. Nothing should be repeated in your paper. Repetition means inefficiency
 -	Do NOT repeat things at different places in your paper.
 -	First Draft - When your paper is compact and condensed after your self-review, then decide what words you can get rid of.
--	Formula for Second review - Second Draft = First Draft – 10%
+-	Formula for Second review - *Second Draft = First Draft – 10%*
 -	Avoid – redundancies, pretentious words, words that add no meaning or little meaning.
 -	Don’t present the things that are already well known. There is no need to lecture people about the things they already know.

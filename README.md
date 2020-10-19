@@ -25,7 +25,7 @@ Golden Rules of Scientific Writing | My Personal list of experiences
 -	Don’t present the things that are already well known. There is no need to lecture people about the things they already know.
 
 ### Hedging Strategies – 
-*When you need to express doubt or uncertainty in your Research Results - *
+*When you need to express doubt or uncertainty in your Research Results* - 
 1.	Hedging represents professional modesty, professional purism, express unsurety of findings
 2.	When you avoid Hedge words, then you demonstrate that you are absolutely confident of your results used in your paper. 
 3.	If you have confidence in your research then you should not use hedge words. This will help your readers find more trust in your words.

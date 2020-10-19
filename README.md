@@ -15,7 +15,7 @@ Golden Rules of Scientific Writing | My Personal list of experiences
 11.	Focus only on one thought that your reader did not have before. Reader should be provoked by just one thought
 12.	Do not say what you do not need to say in your paper
 
-Paper Compression strategy – 
+**Paper Compression strategy:** – 
 - The precision comes from “selection” not from “compression” or pruning.
 -	First Draft - Build a good story frame. Nothing should be repeated in your paper. Repetition means inefficiency
 -	Do NOT repeat things at different places in your paper.

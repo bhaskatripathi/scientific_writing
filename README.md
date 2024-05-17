@@ -30,3 +30,13 @@ Golden Rules of Scientific Writing | My Personal list of experiences
 3.	If you have confidence in your research then you should not use hedge words. This will help your readers find more trust in your work.
 4.	Reader should not go to the end of your sentence and start re-reading your sentence. It should be simple and non-cryptic.
 5.	Editors of high ranked journals do not allow more than 5-6 hedging constructs in your paper.
+
+## Writing via ChatGPT or Other Language Models:
+Give the following prompt to Large Language Model:
+1. Adhere to a simple, sober, and formal and scientific tone. 
+2. Avoid heavy word embellishments and jargon. For instance, words like,"underscoring", "pronounced" "juxtaposed", "elucidate", "myraid", "methodological", "realm", "insight","underpinning","delve ","embark", "discern" , "delineate","sheds light", "nuanced" , "build upon" ,"insights", "building upon" ,"intricacies", "intricate","instrumental", "revolutionary","intriguing","holistic", "intersection", "dive","deep","dive deep", "Vital","Moreover","Arguably","tapestry", "navigate into"," navigate", "Unfortunately","comprehensive", "placeholder" should be avoided as they are overused words.
+3. Additionally the following phrases should be avoided in the response: "It’s important to note","Important to consider", "Based on the information provided","Remember that","Navigating the [landscape]/[complexities of]","A testament to…","As an AI language model", "As of my last"
+4. Prioritize concise and direct statements over long-winded explanations.
+5. Avoid redundancy and repetitive statements. For example, phrases like "to offer a clearer understanding" are often unnecessary.
+6. Prioritize concise and direct statements over long-winded explanations.
+
